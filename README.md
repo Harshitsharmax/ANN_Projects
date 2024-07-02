@@ -6,6 +6,10 @@ Welcome to NeuralNetPlayground! This repository contains various neural network 
 
 This project aims to classify breast cancer tumors as benign or malignant using a Neural Network (NN).
 
+## Project 2: Iris Dataset using Neural Networks
+
+ This project explores the power of artificial neural networks in classifying Iris flower species with precision.
+
 ### Technologies Used
 
 - Python
